@@ -1,3 +1,3 @@
 # wedgius.github.io
 
-oh hai
+o hai
